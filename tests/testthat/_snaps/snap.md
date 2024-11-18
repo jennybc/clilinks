@@ -3,12 +3,12 @@
     Code
       rnorm(1)
     Output
-      [1] -1.424069
+      [1] -0.2735041
 
-# second snapshot failure might make good things happen?
+# second snapshot failure might make 'skip' do something in the app?
 
     Code
       rnorm(1)
     Output
-      [1] 0.3021194
+      [1] 1.163392
 
